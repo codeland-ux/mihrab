@@ -1,0 +1,31 @@
+echo ".buildozer/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "venv/" >> .gitignore
+echo "venv*" >> .gitignore
+echo "*.zip" >> .gitignore
+echo "*.apk" >> .gitignore
+echo "android-ndk-r25b/" >> .gitignore
+echo "tools/" >> .gitignore
+echo "platform/" >> .gitignore
+echo "bin/" >> .gitignore
+
+echo "android-ndk-r25b/" >> .gitignore
+echo "android-ndk-r25b*" >> .gitignore
+
+# 2. .gitignore'ı güncelle
+cat > .gitignore << EOF
+.buildozer/
+venv/
+__pycache__/
+*.pyc
+*.zip
+*.apk
+android-ndk-r25b/
+tools/
+platform/
+bin/
+p
+t
+ses*
+uest*
+EOF

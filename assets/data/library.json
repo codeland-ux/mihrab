@@ -1,0 +1,80 @@
+{
+  "kategoriler": [
+    {
+      "id": 1,
+      "ad": "Hadis-i Şerifler",
+      "icon": "📜",
+      "items": [
+        {
+          "baslik": "Merhamet Hadisi",
+          "metin": "Rahman olan Allah, merhamet edenlere merhamet eder. Siz yeryüzündekilere merhamet edin ki, gökyüzündekiler de size merhamet etsin.",
+          "kaynak": "Tirmizî, Birr, 16"
+        },
+        {
+          "baslik": "Komşu Hakkı",
+          "metin": "Cebrail bana komşu hakkında o kadar çok tavsiyede bulundu ki, neredeyse komşuyu komşuya mirasçı kılacağını zannettim.",
+          "kaynak": "Buhârî, Edeb, 28"
+        },
+        {
+          "baslik": "Temizlik",
+          "metin": "Temizlik imanın yarısıdır. Elhamdülillah mizanı doldurur. Sübhanallah ve Elhamdülillah ise gökle yer arasını doldurur.",
+          "kaynak": "Müslim, Tahâret, 1"
+        },
+        {
+          "baslik": "Güzel Ahlak",
+          "metin": "Ben güzel ahlakı tamamlamak için gönderildim.",
+          "kaynak": "Muvatta, Hüsnü'l-Hulk, 8"
+        },
+        {
+          "baslik": "İlim Öğrenmek",
+          "metin": "İlim öğrenmek her Müslümana farzdır.",
+          "kaynak": "İbn Mâce, Mukaddime, 17"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ad": "Peygamber Kıssaları",
+      "icon": "📖",
+      "items": [
+        {
+          "baslik": "Hz. Muhammed (s.a.v.)",
+          "metin": "Muhammed (s.a.v.), 571 yılında Mekke'de doğdu. 40 yaşında peygamber oldu. 23 yıllık peygamberlik hayatında İslam'ı tebliğ etti. 632 yılında Medine'de vefat etti.",
+          "kaynak": "İslam Tarihi"
+        },
+        {
+          "baslik": "Hz. Musa (a.s.)",
+          "metin": "Hz. Musa, İsrailoğulları'na gönderilen büyük bir peygamberdir. Firavun'a karşı mücadele etmiş, Tevrat kendisine indirilmiştir.",
+          "kaynak": "Kur'an-ı Kerim"
+        },
+        {
+          "baslik": "Hz. İsa (a.s.)",
+          "metin": "Hz. İsa, Meryem oğlu olarak mucizevi şekilde doğmuş, İncil kendisine indirilmiş büyük bir peygamberdir.",
+          "kaynak": "Kur'an-ı Kerim"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ad": "Dini Bilgiler",
+      "icon": "🕌",
+      "items": [
+        {
+          "baslik": "İslam'ın Şartları",
+          "metin": "1. Kelime-i Şehadet getirmek\n2. Namaz kılmak\n3. Zekat vermek\n4. Oruç tutmak\n5. Hacca gitmek",
+          "kaynak": "İslam Fıkhı"
+        },
+        {
+          "baslik": "İmanın Şartları",
+          "metin": "1. Allah'a iman\n2. Meleklere iman\n3. Kitaplara iman\n4. Peygamberlere iman\n5. Ahiret gününe iman\n6. Kadere iman",
+          "kaynak": "İslam Akaidi"
+        },
+        {
+          "baslik": "Namazın Farzları",
+          "metin": "Namazın 12 farzı vardır:\nDışındaki farzlar: Hadesten taharet, necasetten taharet, setr-i avret, istikbal-i kıble, vakit, niyet.\nİçindeki farzlar: İftitah tekbiri, kıyam, kıraat, rüku, secde, ka'de-i ahîre.",
+          "kaynak": "Namaz İlmihali"
+        }
+      ]
+    }
+  ]
+}

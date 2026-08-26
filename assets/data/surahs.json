@@ -1,0 +1,49 @@
+{
+  "sureler": [
+    {
+      "id": 1,
+      "isim": "Fatiha Suresi",
+      "ayet_sayisi": 7,
+      "arapca": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ﴿١﴾ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ ﴿٢﴾ اَلرَّحْمٰنِ الرَّح۪يمِ ﴿٣﴾ مَالِكِ يَوْمِ الدّ۪ينِ ﴿٤﴾ اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ ﴿٥﴾ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ ﴿٦﴾ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ ﴿٧﴾",
+      "okunus": "Bismillâhirrahmânirrahîm. Elhamdü lillâhi rabbil âlemîn. Errahmânirrahîm. Mâliki yevmiddîn. İyyâke na'büdü ve iyyâke nesteîn. İhdines sırâtel müstakîm. Sırâtellezîne en'amte aleyhim gayril mağdûbi aleyhim ve leddâllîn.",
+      "anlam": "Rahmân ve Rahîm olan Allah'ın adıyla. Hamd, âlemlerin Rabbi olan Allah'a mahsustur. O, Rahmân ve Rahîm'dir. Din gününün sahibidir. Yalnız sana ibadet eder ve yalnız senden yardım dileriz. Bizi doğru yola ilet. Kendilerine nimet verdiklerinin yoluna; gazaba uğrayanların ve sapmışların yoluna değil.",
+      "kategori": "Namaz Sureleri"
+    },
+    {
+      "id": 2,
+      "isim": "İhlas Suresi",
+      "ayet_sayisi": 4,
+      "arapca": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ﴿١﴾ قُلْ هُوَ اللّٰهُ اَحَدٌ ﴿٢﴾ اَللّٰهُ الصَّمَدُ ﴿٣﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٤﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ",
+      "okunus": "Bismillâhirrahmânirrahîm. Kul hüvallâhü ehad. Allâhüssamed. Lem yelid ve lem yûled. Ve lem yekün lehû küfüven ehad.",
+      "anlam": "De ki: O Allah birdir. Allah sameddir (her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir). Doğurmamış ve doğmamıştır. Hiçbir şey O'na denk değildir.",
+      "kategori": "Namaz Sureleri"
+    },
+    {
+      "id": 3,
+      "isim": "Felak Suresi",
+      "ayet_sayisi": 5,
+      "arapca": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ﴿١﴾ قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ ﴿٢﴾ مِنْ شَرِّ مَا خَلَقَ ﴿٣﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَ ﴿٤﴾ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٥﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+      "okunus": "Bismillâhirrahmânirrahîm. Kul eûzü birabbil felak. Min şerri mâ halak. Ve min şerri ğâsikın izâ vekab. Ve min şerrin neffâsâti fil ukad. Ve min şerri hâsidin izâ hased.",
+      "anlam": "De ki: Sabahın Rabbine sığınırım. Yarattığı şeylerin şerrinden. Karanlığı çöktüğü zaman gecenin şerrinden. Düğümlere üfleyenlerin şerrinden. Haset ettiği zaman hasetçinin şerrinden.",
+      "kategori": "Namaz Sureleri"
+    },
+    {
+      "id": 4,
+      "isim": "Nas Suresi",
+      "ayet_sayisi": 6,
+      "arapca": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ﴿١﴾ قُلْ اَعُوذُ بِرَبِّ النَّاسِ ﴿٢﴾ مَلِكِ النَّاسِ ﴿٣﴾ اِلٰهِ النَّاسِ ﴿٤﴾ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٥﴾ اَلَّذ۪ي يُوَسْوِسُ ف۪ي صُدُورِ النَّاسِ ﴿٦﴾ مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "okunus": "Bismillâhirrahmânirrahîm. Kul eûzü birabbin nâs. Melikin nâs. İlâhin nâs. Min şerril vesvâsil hannâs. Ellezî yüvesvisü fî sudûrin nâs. Minel cinneti ven nâs.",
+      "anlam": "De ki: İnsanların Rabbine sığınırım. İnsanların Melikine. İnsanların İlahına. Sinsi vesvesecinin şerrinden. O ki, insanların göğüslerine vesvese verir. Gerek cinlerden, gerek insanlardan.",
+      "kategori": "Namaz Sureleri"
+    },
+    {
+      "id": 5,
+      "isim": "Kevser Suresi",
+      "ayet_sayisi": 3,
+      "arapca": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ ﴿١﴾ اِنَّٓا اَعْطَيْنَاكَ الْكَوْثَرَ ﴿٢﴾ فَصَلِّ لِرَبِّكَ وَانْحَرْ ﴿٣﴾ اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
+      "okunus": "Bismillâhirrahmânirrahîm. İnnâ a'taynâkel kevser. Fesalli lirabbike venhar. İnne şânieke hüvel ebter.",
+      "anlam": "Şüphesiz biz sana Kevser'i verdik. Öyleyse Rabbin için namaz kıl ve kurban kes. Asıl soyu kesik olan, sana buğzedendir.",
+      "kategori": "Namaz Sureleri"
+    }
+  ]
+}

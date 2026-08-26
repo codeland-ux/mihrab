@@ -1,0 +1,52 @@
+{
+  "2026": [
+    {
+      "tarih": "2026-01-02",
+      "isim": "Recep Ayı Başlangıcı",
+      "tur": "ay_baslangici",
+      "aciklama": "Üç ayların başlangıcı"
+    },
+    {
+      "tarih": "2026-01-27",
+      "isim": "Miraç Kandili",
+      "tur": "kandil",
+      "aciklama": "Hz. Muhammed'in (s.a.v.) Miraç gecesi"
+    },
+    {
+      "tarih": "2026-02-15",
+      "isim": "Berat Kandili",
+      "tur": "kandil",
+      "aciklama": "Berat gecesi"
+    },
+    {
+      "tarih": "2026-03-11",
+      "isim": "Ramazan Başlangıcı",
+      "tur": "ay_baslangici",
+      "aciklama": "Ramazan-ı Şerif ayının başlangıcı"
+    },
+    {
+      "tarih": "2026-03-27",
+      "isim": "Kadir Gecesi",
+      "tur": "ozel_gece",
+      "aciklama": "Bin aydan hayırlı gece"
+    },
+    {
+      "tarih": "2026-04-10",
+      "isim": "Ramazan Bayramı (1. Gün)",
+      "tur": "bayram",
+      "aciklama": "Ramazan Bayramı"
+    },
+    {
+      "tarih": "2026-06-16",
+      "isim": "Arefe Günü",
+      "tur": "ozel_gun",
+      "aciklama": "Kurban Bayramı arefesi"
+    },
+    {
+      "tarih": "2026-06-17",
+      "isim": "Kurban Bayramı (1. Gün)",
+      "tur": "bayram",
+      "aciklama": "Kurban Bayramı"
+    }
+  ]
+}

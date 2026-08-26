@@ -1,0 +1,604 @@
+{
+  "esmaul_husna": [
+    {
+      "id": 1,
+      "arapca": "اَللّٰهُ",
+      "okunus": "Allah",
+      "anlam": "Tüm isim ve sıfatları kendinde toplayan yüce varlık"
+    },
+    {
+      "id": 2,
+      "arapca": "اَلرَّحْمٰنُ",
+      "okunus": "Er-Rahmân",
+      "anlam": "Dünyada tüm mahlukata merhamet eden"
+    },
+    {
+      "id": 3,
+      "arapca": "اَلرَّح۪يمُ",
+      "okunus": "Er-Rahîm",
+      "anlam": "Ahirette sadece müminlere merhamet eden"
+    },
+    {
+      "id": 4,
+      "arapca": "اَلْمَلِكُ",
+      "okunus": "El-Melik",
+      "anlam": "Tüm varlıkların gerçek sahibi ve hükümdarı"
+    },
+    {
+      "id": 5,
+      "arapca": "اَلْقُدُّوسُ",
+      "okunus": "El-Kuddûs",
+      "anlam": "Tüm noksanlıklardan münezzeh, kutsal"
+    },
+    {
+      "id": 6,
+      "arapca": "اَلسَّلَامُ",
+      "okunus": "Es-Selâm",
+      "anlam": "Kusurlardan uzak, selamet veren"
+    },
+    {
+      "id": 7,
+      "arapca": "اَلْمُؤْمِنُ",
+      "okunus": "El-Mü'min",
+      "anlam": "Kullarına güven veren, inananları koruyan"
+    },
+    {
+      "id": 8,
+      "arapca": "اَلْمُهَيْمِنُ",
+      "okunus": "El-Müheymin",
+      "anlam": "Her şeyi gözetip denetleyen, koruyan"
+    },
+    {
+      "id": 9,
+      "arapca": "اَلْعَز۪يزُ",
+      "okunus": "El-Azîz",
+      "anlam": "Mutlak güç sahibi, yenilmez"
+    },
+    {
+      "id": 10,
+      "arapca": "اَلْجَبَّارُ",
+      "okunus": "El-Cebbâr",
+      "anlam": "Dilediğini yaptıran, zorlayan"
+    },
+    {
+      "id": 11,
+      "arapca": "اَلْمُتَكَبِّرُ",
+      "okunus": "El-Mütekebbir",
+      "anlam": "Büyüklükte eşsiz olan"
+    },
+    {
+      "id": 12,
+      "arapca": "اَلْخَالِقُ",
+      "okunus": "El-Hâlık",
+      "anlam": "Her şeyi yoktan var eden"
+    },
+    {
+      "id": 13,
+      "arapca": "اَلْبَارِئُ",
+      "okunus": "El-Bâri",
+      "anlam": "Her şeyi bir ölçü ve denge ile yaratan"
+    },
+    {
+      "id": 14,
+      "arapca": "اَلْمُصَوِّرُ",
+      "okunus": "El-Musavvir",
+      "anlam": "Varlıklara şekil ve suret veren"
+    },
+    {
+      "id": 15,
+      "arapca": "اَلْغَفَّارُ",
+      "okunus": "El-Gaffâr",
+      "anlam": "Çok bağışlayan, günahları örten"
+    },
+    {
+      "id": 16,
+      "arapca": "اَلْقَهَّارُ",
+      "okunus": "El-Kahhâr",
+      "anlam": "Mutlak hakimiyet sahibi, kahreden"
+    },
+    {
+      "id": 17,
+      "arapca": "اَلْوَهَّابُ",
+      "okunus": "El-Vehhâb",
+      "anlam": "Karşılıksız ve bolca ihsan eden"
+    },
+    {
+      "id": 18,
+      "arapca": "اَلرَّزَّاقُ",
+      "okunus": "Er-Rezzâk",
+      "anlam": "Tüm canlıların rızkını veren"
+    },
+    {
+      "id": 19,
+      "arapca": "اَلْفَتَّاحُ",
+      "okunus": "El-Fettâh",
+      "anlam": "Her türlü kapıyı açan, yardım eden"
+    },
+    {
+      "id": 20,
+      "arapca": "اَلْعَل۪يمُ",
+      "okunus": "El-Alîm",
+      "anlam": "Her şeyi en iyi şekilde bilen"
+    },
+    {
+      "id": 21,
+      "arapca": "اَلْقَابِضُ",
+      "okunus": "El-Kâbıd",
+      "anlam": "Dilediğini sıkıştıran, daraltan"
+    },
+    {
+      "id": 22,
+      "arapca": "اَلْبَاسِطُ",
+      "okunus": "El-Bâsıt",
+      "anlam": "Dilediğine genişlik veren, ferahlatan"
+    },
+    {
+      "id": 23,
+      "arapca": "اَلْخَافِضُ",
+      "okunus": "El-Hâfid",
+      "anlam": "Dilediğini alçaltan"
+    },
+    {
+      "id": 24,
+      "arapca": "اَلرَّافِعُ",
+      "okunus": "Er-Râfi",
+      "anlam": "Dilediğini yücelten"
+    },
+    {
+      "id": 25,
+      "arapca": "اَلْمُعِزُّ",
+      "okunus": "El-Mu'izz",
+      "anlam": "Dilediğine izzet ve şeref veren"
+    },
+    {
+      "id": 26,
+      "arapca": "اَلْمُذِلُّ",
+      "okunus": "El-Muzill",
+      "anlam": "Dilediğini zelil eden"
+    },
+    {
+      "id": 27,
+      "arapca": "اَلسَّم۪يعُ",
+      "okunus": "Es-Semî",
+      "anlam": "Her şeyi işiten"
+    },
+    {
+      "id": 28,
+      "arapca": "اَلْبَص۪يرُ",
+      "okunus": "El-Basîr",
+      "anlam": "Her şeyi gören"
+    },
+    {
+      "id": 29,
+      "arapca": "اَلْحَكَمُ",
+      "okunus": "El-Hakem",
+      "anlam": "Mutlak hakim, hüküm veren"
+    },
+    {
+      "id": 30,
+      "arapca": "اَلْعَدْلُ",
+      "okunus": "El-Adl",
+      "anlam": "Mutlak adil, hiç zulmetmeyen"
+    },
+    {
+      "id": 31,
+      "arapca": "اَللَّط۪يفُ",
+      "okunus": "El-Latîf",
+      "anlam": "Kullarına lütuf ve ihsanı bol olan"
+    },
+    {
+      "id": 32,
+      "arapca": "اَلْخَب۪يرُ",
+      "okunus": "El-Habîr",
+      "anlam": "Her şeyin iç yüzünü bilen"
+    },
+    {
+      "id": 33,
+      "arapca": "اَلْحَل۪يمُ",
+      "okunus": "El-Halîm",
+      "anlam": "Yumuşak huylu, acele etmeyen"
+    },
+    {
+      "id": 34,
+      "arapca": "اَلْعَظ۪يمُ",
+      "okunus": "El-Azîm",
+      "anlam": "Büyüklükte sınırsız olan"
+    },
+    {
+      "id": 35,
+      "arapca": "اَلْغَفُورُ",
+      "okunus": "El-Gafûr",
+      "anlam": "Çok bağışlayan"
+    },
+    {
+      "id": 36,
+      "arapca": "اَلشَّكُورُ",
+      "okunus": "Eş-Şekûr",
+      "anlam": "Az amele çok mükafat veren"
+    },
+    {
+      "id": 37,
+      "arapca": "اَلْعَلِيُّ",
+      "okunus": "El-Aliyy",
+      "anlam": "En yüksek, her şeyin üstünde olan"
+    },
+    {
+      "id": 38,
+      "arapca": "اَلْكَب۪يرُ",
+      "okunus": "El-Kebîr",
+      "anlam": "Büyüklükte eşsiz olan"
+    },
+    {
+      "id": 39,
+      "arapca": "اَلْحَف۪يظُ",
+      "okunus": "El-Hafîz",
+      "anlam": "Her şeyi koruyup gözeten"
+    },
+    {
+      "id": 40,
+      "arapca": "اَلْمُق۪يتُ",
+      "okunus": "El-Mukît",
+      "anlam": "Her şeyin gıdasını, kuvvetini veren"
+    },
+    {
+      "id": 41,
+      "arapca": "اَلْحَس۪يبُ",
+      "okunus": "El-Hasîb",
+      "anlam": "Hesabı en iyi gören"
+    },
+    {
+      "id": 42,
+      "arapca": "اَلْجَل۪يلُ",
+      "okunus": "El-Celîl",
+      "anlam": "Celal ve azamet sahibi"
+    },
+    {
+      "id": 43,
+      "arapca": "اَلْكَر۪يمُ",
+      "okunus": "El-Kerîm",
+      "anlam": "Cömertliği sonsuz olan"
+    },
+    {
+      "id": 44,
+      "arapca": "اَلرَّق۪يبُ",
+      "okunus": "Er-Rakîb",
+      "anlam": "Her an gözeten, denetleyen"
+    },
+    {
+      "id": 45,
+      "arapca": "اَلْمُج۪يبُ",
+      "okunus": "El-Mucîb",
+      "anlam": "Duaları kabul eden"
+    },
+    {
+      "id": 46,
+      "arapca": "اَلْوَاسِعُ",
+      "okunus": "El-Vâsi",
+      "anlam": "Rahmeti ve ilmi sınırsız olan"
+    },
+    {
+      "id": 47,
+      "arapca": "اَلْحَك۪يمُ",
+      "okunus": "El-Hakîm",
+      "anlam": "Her işi hikmetli olan"
+    },
+    {
+      "id": 48,
+      "arapca": "اَلْوَدُودُ",
+      "okunus": "El-Vedûd",
+      "anlam": "Kullarını çok seven, sevilen"
+    },
+    {
+      "id": 49,
+      "arapca": "اَلْمَج۪يدُ",
+      "okunus": "El-Mecîd",
+      "anlam": "Şan ve şerefi yüce olan"
+    },
+    {
+      "id": 50,
+      "arapca": "اَلْبَاعِثُ",
+      "okunus": "El-Bâis",
+      "anlam": "Ölüleri dirilten"
+    },
+    {
+      "id": 51,
+      "arapca": "اَلشَّهِيدُ",
+      "okunus": "Eş-Şehîd",
+      "anlam": "Her yerde hazır ve nazır olan"
+    },
+    {
+      "id": 52,
+      "arapca": "اَلْحَقُّ",
+      "okunus": "El-Hak",
+      "anlam": "Varlığı mutlak ve değişmez olan"
+    },
+    {
+      "id": 53,
+      "arapca": "اَلْوَك۪يلُ",
+      "okunus": "El-Vekîl",
+      "anlam": "Her şeyi yöneten, güvenilen"
+    },
+    {
+      "id": 54,
+      "arapca": "اَلْقَوِيُّ",
+      "okunus": "El-Kaviyy",
+      "anlam": "Gücü her şeye yeten"
+    },
+    {
+      "id": 55,
+      "arapca": "اَلْمَت۪ينُ",
+      "okunus": "El-Metîn",
+      "anlam": "Çok sağlam ve güçlü"
+    },
+    {
+      "id": 56,
+      "arapca": "اَلْوَلِيُّ",
+      "okunus": "El-Veliyy",
+      "anlam": "Dost, yardımcı, koruyucu"
+    },
+    {
+      "id": 57,
+      "arapca": "اَلْحَم۪يدُ",
+      "okunus": "El-Hamîd",
+      "anlam": "Övülmeye layık olan"
+    },
+    {
+      "id": 58,
+      "arapca": "اَلْمُحْص۪ي",
+      "okunus": "El-Muhsî",
+      "anlam": "Her şeyi sayan, hesaba çeken"
+    },
+    {
+      "id": 59,
+      "arapca": "اَلْمُبْدِئُ",
+      "okunus": "El-Mubdî",
+      "anlam": "Yaratmaya başlayan"
+    },
+    {
+      "id": 60,
+      "arapca": "اَلْمُع۪يدُ",
+      "okunus": "El-Muîd",
+      "anlam": "Yaratmayı tekrarlayan"
+    },
+    {
+      "id": 61,
+      "arapca": "اَلْمُحْي۪ي",
+      "okunus": "El-Muhyî",
+      "anlam": "Dirilten, hayat veren"
+    },
+    {
+      "id": 62,
+      "arapca": "اَلْمُم۪يتُ",
+      "okunus": "El-Mumît",
+      "anlam": "Öldüren"
+    },
+    {
+      "id": 63,
+      "arapca": "اَلْحَيُّ",
+      "okunus": "El-Hayy",
+      "anlam": "Daima diri olan"
+    },
+    {
+      "id": 64,
+      "arapca": "اَلْقَيُّومُ",
+      "okunus": "El-Kayyûm",
+      "anlam": "Her şeyi ayakta tutan"
+    },
+    {
+      "id": 65,
+      "arapca": "اَلْوَاجِدُ",
+      "okunus": "El-Vâcid",
+      "anlam": "Dilediğini bulan"
+    },
+    {
+      "id": 66,
+      "arapca": "اَلْمَاجِدُ",
+      "okunus": "El-Mâcid",
+      "anlam": "Şeref ve kerem sahibi"
+    },
+    {
+      "id": 67,
+      "arapca": "اَلْوَاحِدُ",
+      "okunus": "El-Vâhid",
+      "anlam": "Bir ve tek olan"
+    },
+    {
+      "id": 68,
+      "arapca": "اَلْأَحَدُ",
+      "okunus": "El-Ehad",
+      "anlam": "Eşi ve benzeri olmayan"
+    },
+    {
+      "id": 69,
+      "arapca": "اَلصَّمَدُ",
+      "okunus": "Es-Samed",
+      "anlam": "Her şey O'na muhtaç, O hiçbir şeye muhtaç değil"
+    },
+    {
+      "id": 70,
+      "arapca": "اَلْقَادِرُ",
+      "okunus": "El-Kâdir",
+      "anlam": "Her şeye gücü yeten"
+    },
+    {
+      "id": 71,
+      "arapca": "اَلْمُقْتَدِرُ",
+      "okunus": "El-Muktedir",
+      "anlam": "Her şeye tam anlamıyla gücü yeten"
+    },
+    {
+      "id": 72,
+      "arapca": "اَلْمُقَدِّمُ",
+      "okunus": "El-Mukaddim",
+      "anlam": "Dilediğini öne geçiren"
+    },
+    {
+      "id": 73,
+      "arapca": "اَلْمُؤَخِّرُ",
+      "okunus": "El-Muahhir",
+      "anlam": "Dilediğini geri bırakan"
+    },
+    {
+      "id": 74,
+      "arapca": "اَلْأَوَّلُ",
+      "okunus": "El-Evvel",
+      "anlam": "İlk, başlangıcı olmayan"
+    },
+    {
+      "id": 75,
+      "arapca": "اَلْآخِرُ",
+      "okunus": "El-Âhir",
+      "anlam": "Son, bitişi olmayan"
+    },
+    {
+      "id": 76,
+      "arapca": "اَلظَّاهِرُ",
+      "okunus": "Ez-Zâhir",
+      "anlam": "Aşikar olan, varlığı apaçık belli olan"
+    },
+    {
+      "id": 77,
+      "arapca": "اَلْبَاطِنُ",
+      "okunus": "El-Bâtın",
+      "anlam": "Gizli olan, zatı idrak edilemeyen"
+    },
+    {
+      "id": 78,
+      "arapca": "اَلْوَالِي",
+      "okunus": "El-Vâlî",
+      "anlam": "Her şeyi yöneten, idare eden"
+    },
+    {
+      "id": 79,
+      "arapca": "اَلْمُتَعَالِي",
+      "okunus": "El-Müteâlî",
+      "anlam": "Her türlü noksanlıktan yüce olan"
+    },
+    {
+      "id": 80,
+      "arapca": "اَلْبَرُّ",
+      "okunus": "El-Berr",
+      "anlam": "İyiliği bol, lütuf sahibi"
+    },
+    {
+      "id": 81,
+      "arapca": "اَلتَّوَّابُ",
+      "okunus": "Et-Tevvâb",
+      "anlam": "Tövbeleri çok kabul eden"
+    },
+    {
+      "id": 82,
+      "arapca": "اَلْمُنْتَقِمُ",
+      "okunus": "El-Müntakim",
+      "anlam": "Suçlulardan intikam alan"
+    },
+    {
+      "id": 83,
+      "arapca": "اَلْعَفُوُّ",
+      "okunus": "El-Afüvv",
+      "anlam": "Günahları affeden"
+    },
+    {
+      "id": 84,
+      "arapca": "اَلرَّؤُفُ",
+      "okunus": "Er-Raûf",
+      "anlam": "Çok şefkatli ve merhametli"
+    },
+    {
+      "id": 85,
+      "arapca": "مَالِكُ الْمُلْكِ",
+      "okunus": "Mâlikü'l-Mülk",
+      "anlam": "Mülkün gerçek sahibi"
+    },
+    {
+      "id": 86,
+      "arapca": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "okunus": "Zü'l-Celâli ve'l-İkrâm",
+      "anlam": "Büyüklük ve ikram sahibi"
+    },
+    {
+      "id": 87,
+      "arapca": "اَلْمُقْسِطُ",
+      "okunus": "El-Muksit",
+      "anlam": "Adaletle hükmeden"
+    },
+    {
+      "id": 88,
+      "arapca": "اَلْجَامِعُ",
+      "okunus": "El-Câmi",
+      "anlam": "Her şeyi toplayan"
+    },
+    {
+      "id": 89,
+      "arapca": "اَلْغَنِيُّ",
+      "okunus": "El-Ganiyy",
+      "anlam": "Hiçbir şeye ihtiyacı olmayan, zengin"
+    },
+    {
+      "id": 90,
+      "arapca": "اَلْمُغْنِي",
+      "okunus": "El-Muğnî",
+      "anlam": "Zenginlik veren, ihtiyaç gideren"
+    },
+    {
+      "id": 91,
+      "arapca": "اَلْمَانِعُ",
+      "okunus": "El-Mâni",
+      "anlam": "Dilediğini engelleyen, koruyan"
+    },
+    {
+      "id": 92,
+      "arapca": "اَلضَّارُ",
+      "okunus": "Ed-Dârr",
+      "anlam": "Zarar veren, dilediğine sıkıntı veren"
+    },
+    {
+      "id": 93,
+      "arapca": "اَلنَّافِعُ",
+      "okunus": "En-Nâfi",
+      "anlam": "Fayda veren"
+    },
+    {
+      "id": 94,
+      "arapca": "اَلنُّورُ",
+      "okunus": "En-Nûr",
+      "anlam": "Göklerin ve yerin nuru"
+    },
+    {
+      "id": 95,
+      "arapca": "اَلْهَادِي",
+      "okunus": "El-Hâdî",
+      "anlam": "Doğru yola ileten"
+    },
+    {
+      "id": 96,
+      "arapca": "اَلْبَدِيعُ",
+      "okunus": "El-Bedî",
+      "anlam": "Eşsiz ve benzersiz yaratan"
+    },
+    {
+      "id": 97,
+      "arapca": "اَلْبَاقِي",
+      "okunus": "El-Bâkî",
+      "anlam": "Varlığı sonsuz, ebedi olan"
+    },
+    {
+      "id": 98,
+      "arapca": "اَلْوَارِثُ",
+      "okunus": "El-Vâris",
+      "anlam": "Her şeyin varisi, gerçek sahibi"
+    },
+    {
+      "id": 99,
+      "arapca": "اَلرَّشِيدُ",
+      "okunus": "Er-Reşîd",
+      "anlam": "Her işi doğru ve isabetli olan"
+    },
+    {
+      "id": 100,
+      "arapca": "اَلصَّبُورُ",
+      "okunus": "Es-Sabûr",
+      "anlam": "Çok sabırlı, acele etmeyen"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dualar": [
+    {
+      "id": 1,
+      "kategori": "Sabah Duası",
+      "arapca": "اَلْحَمْدُ لِلّٰهِ الَّذ۪ٓي اَحْيَانَا بَعْدَ مَآ اَمَاتَنَا وَاِلَيْهِ النُّشُورُ",
+      "okunus": "Elhamdü lillâhillezî ahyânâ ba'de mâ emâtenâ ve ileyhi'n-nüşûr.",
+      "anlam": "Bizi öldürdükten sonra dirilten Allah'a hamdolsun. Dönüş O'nadır.",
+      "kaynak": "Buhârî, Deavât, 7"
+    },
+    {
+      "id": 2,
+      "kategori": "Akşam Duası",
+      "arapca": "اَمْسَيْنَا وَاَمْسَى الْمُلْكُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "okunus": "Emseynâ ve emsel mülkü lillâhi Rabbi'l-âlemîn.",
+      "anlam": "Akşamladık, mülk de alemlerin Rabbi olan Allah'ındır.",
+      "kaynak": "Müslim, Zikr, 75"
+    },
+    {
+      "id": 3,
+      "kategori": "Yemek Duası",
+      "arapca": "اَللّٰهُمَّ بَارِكْ لَنَا ف۪يمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+      "okunus": "Allâhümme bârik lenâ fîmâ razaktenâ ve kınâ azâbe'n-nâr.",
+      "anlam": "Allah'ım bize verdiğin rızıkları bereketlendir ve bizi cehennem azabından koru.",
+      "kaynak": "İbn Sünnî, 458"
+    },
+    {
+      "id": 4,
+      "kategori": "Uyku Duası",
+      "arapca": "بِاسْمِكَ اللّٰهُمَّ اَمُوتُ وَاَحْيَا",
+      "okunus": "Bismike Allâhümme emûtü ve ahyâ.",
+      "anlam": "Allah'ım senin isminle ölür ve dirilirim.",
+      "kaynak": "Buhârî, Deavât, 8"
+    },
+    {
+      "id": 5,
+      "kategori": "Sabah Duası",
+      "arapca": "بِسْمِ اللّٰهِ الَّذ۪ي لَا يَضُرُّ مَعَ اسْمِه۪ شَيْءٌ",
+      "okunus": "Bismillâhillezî lâ yedurru me'a'smihî şey'ün.",
+      "anlam": "Allah'ın adıyla; O'nun adıyla hiçbir şey zarar veremez.",
+      "kaynak": "Tirmizî, Deavât, 13"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "ayetler": [
+    {
+      "id": 1,
+      "sure": "Bakara",
+      "ayet": 286,
+      "metin": "Allah hiçbir kimseye gücünün yeteceğinden başkasını yüklemez.",
+      "meal": "Allah hiçbir kimseye gücünün yeteceğinden başkasını yüklemez."
+    },
+    {
+      "id": 2,
+      "sure": "Rad",
+      "ayet": 28,
+      "metin": "Bilesiniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+      "meal": "Bilesiniz ki, kalpler ancak Allah'ı anmakla huzur bulur."
+    },
+    {
+      "id": 3,
+      "sure": "Zümer",
+      "ayet": 53,
+      "metin": "De ki: Ey kendilerine karşı aşırı giden kullarım! Allah'ın rahmetinden ümidinizi kesmeyin. Şüphesiz Allah bütün günahları bağışlar.",
+      "meal": "De ki: Ey kendilerine karşı aşırı giden kullarım! Allah'ın rahmetinden ümidinizi kesmeyin. Şüphesiz Allah bütün günahları bağışlar."
+    },
+    {
+      "id": 4,
+      "sure": "İnşirah",
+      "ayet": 5,
+      "metin": "Şüphesiz her zorlukla birlikte bir kolaylık vardır. Elbette her zorlukla birlikte bir kolaylık vardır.",
+      "meal": "Şüphesiz her zorlukla birlikte bir kolaylık vardır. Elbette her zorlukla birlikte bir kolaylık vardır."
+    },
+    {
+      "id": 5,
+      "sure": "Bakara",
+      "ayet": 153,
+      "metin": "Ey iman edenler! Sabır ve namazla yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir.",
+      "meal": "Ey iman edenler! Sabır ve namazla yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir."
+    }
+  ],
+  "hadisler": [
+    {
+      "id": 1,
+      "metin": "Komşusundan eziyet gören kimse cennete giremez.",
+      "kaynak": "Buhârî, Edeb, 29"
+    },
+    {
+      "id": 2,
+      "metin": "Sizden biriniz kendisi için istediğini (mümin) kardeşi için de istemedikçe (gerçek) iman etmiş olmaz.",
+      "kaynak": "Buhârî, Îmân, 7"
+    },
+    {
+      "id": 3,
+      "metin": "İlim öğrenmek her Müslüman'a farzdır.",
+      "kaynak": "İbn Mâce, Mukaddime, 17"
+    },
+    {
+      "id": 4,
+      "metin": "Temizlik imanın yarısıdır.",
+      "kaynak": "Müslim, Tahâret, 1"
+    },
+    {
+      "id": 5,
+      "metin": "Müslüman, elinden ve dilinden diğer Müslümanların emin olduğu kimsedir.",
+      "kaynak": "Buhârî, Îmân, 4"
+    }
+  ]
+}
