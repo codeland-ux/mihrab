@@ -24,11 +24,13 @@ jobs:
       
       - name: Accept SDK licenses
         run: |
-          # SDK'yi kur ve lisansları kabul et
+          # Önce buildozer'ı çalıştır (SDK indirilsin)
           buildozer android debug || true
-          # Lisansları manuel kabul et
-          yes | ~/.buildozer/android/platform/android-sdk/tools/bin/sdkmanager --licenses || true
-          yes | ~/.buildozer/android/platform/android-sdk/cmdline-tools/bin/sdkmanager --licenses || true
+          # Lisansları manuel kabul et (farklı yöntem)
+          yes | ~/.buildozer/android/platform/android-sdk/tools/bin/sdkmanager --licenses
+          yes | ~/.buildozer/android/platform/android-sdk/cmdline-tools/bin/sdkmanager --licenses
+          # SDK'yi güncelle
+          ~/.buildozer/android/platform/android-sdk/tools/bin/sdkmanager --update
       
       - name: Build APK
         run: buildozer android debug
