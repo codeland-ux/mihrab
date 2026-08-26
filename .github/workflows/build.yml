@@ -22,12 +22,16 @@ jobs:
           sudo apt-get install -y git zip unzip openjdk-17-jdk
           pip install buildozer
       
-      - name: Build APK
+      - name: Accept SDK licenses
         run: |
-          # Lisansları otomatik kabul et
-          yes | buildozer android debug || true
-          # Tekrar dene
-          buildozer android debug
+          # SDK'yi kur ve lisansları kabul et
+          buildozer android debug || true
+          # Lisansları manuel kabul et
+          yes | ~/.buildozer/android/platform/android-sdk/tools/bin/sdkmanager --licenses || true
+          yes | ~/.buildozer/android/platform/android-sdk/cmdline-tools/bin/sdkmanager --licenses || true
+      
+      - name: Build APK
+        run: buildozer android debug
       
       - name: Upload APK
         uses: actions/upload-artifact@v4
